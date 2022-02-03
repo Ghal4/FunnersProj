@@ -1,0 +1,2 @@
+momo    : pass[homo    ]&POS^HP^CASH^QUEST^INV
+bibi    : pass[netanya ]&POS^HP^CASH^QUEST^INV
